@@ -4,6 +4,8 @@ An RPG Maker MZ plugin
 ## Table of contents
 [Description](#description)
 
+[Download demo](#download-demo)
+
 [Set up](#set-up)
 
 [Features](#features)
@@ -17,6 +19,9 @@ An RPG Maker MZ plugin
 ## Description
 This plugin let your rpg-characters chat with you, using free local llms. The plugin is heavy inspired by [ChatGPT_APIMZ](https://github.com/kotonoha0109/kotonoha_tkoolMZ_Plugins/blob/main/plugins/ChatGPT_APIMZ.js) by Kotonoha.
 Some code parts are also inspired by [Message Plus](https://forums.rpgmakerweb.com/index.php?threads/gabe-mz-message-plus.127925/) by Gabe.
+
+## Download demo
+There is a pre-built demo you can test; you can download it from [here](https://github.com/GiusTex/Llm-Chatbot/releases). Inside there are already `orca-mini-3b-ggml` and `koboldcpp.exe`. You can also find some NPCs to test the 4 plugin commands with.
 
 ## Set up
 - Download [Llm_chatbot.zip](https://github.com/GiusTex/Llm-Chatbot/archive/refs/heads/main.zip), then unzip it and move github's `chatbot` folder in your game's root directory. The path should be like this: `[Your-Game-Name]/chatbot`.
