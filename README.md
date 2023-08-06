@@ -20,10 +20,10 @@ Some code parts are also inspired by [Message Plus](https://forums.rpgmakerweb.c
 
 ## Set up
 - Download github's `chatbot` folder and put it in your game's root directory. The path should be like this: `[Your-Game-Name]/chatbot`.
+- Download [koboldcpp.exe](https://github.com/LostRuins/koboldcpp/releases) if you are on windows. If you are not on windows the script will download automatically the koboldcpp dependencies (inside the chatbot folder).
 - Download the [model](https://huggingface.co/TheBloke/orca_mini_3B-GGML/resolve/main/orca-mini-3b.ggmlv3.q5_0.bin) and put it in the `chatbot` folder.
 - Move `Llm_chatbot.js` from github's `plugin` folder to `[Your-Game-Name]\js\plugins` one. 
 - Start the game. The plugin offers 4 [plugin commands](#plugin-commands).
-- If you are not on windows the script will download automatically [koboldcpp](https://github.com/LostRuins/koboldcpp) dependencies (inside the chatbot folder).
 
 ## How it works
 - The large language model (llm) used is [Orca-mini-3b-ggml](https://huggingface.co/TheBloke/orca_mini_3B-GGML), weighs 2 gb, and although small is good in roleplay/chat.
