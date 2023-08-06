@@ -1,0 +1,3 @@
+Text options
+
+Custom characters
