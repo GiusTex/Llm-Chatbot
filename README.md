@@ -23,12 +23,6 @@ Some code parts are also inspired by [Message Plus](https://forums.rpgmakerweb.c
 ## Download demo
 There is a pre-built demo you can test; you can download it from [here](https://github.com/GiusTex/Llm-Chatbot/releases). Inside there are already `orca-mini-3b-ggml` and `koboldcpp.exe`. You can also find some NPCs to test the 4 plugin commands with. You can also see a test [video](https://youtu.be/5d2SO-kegT0).
 
-{% raw %} {% include youtube.html id="5d2SO-kegT0" %}
-
-{% endraw %}
-
-{% include youtube.html id="5d2SO-kegT0" %}
-
 ## Set up
 - Download [Llm_chatbot.zip](https://github.com/GiusTex/Llm-Chatbot/archive/refs/heads/main.zip), then unzip it and move github's `chatbot` folder in your game's root directory. The path should be like this: `[Your-Game-Name]/chatbot`.
 - Download [koboldcpp.exe](https://github.com/LostRuins/koboldcpp/releases) if you are on windows. If you are not on windows the script will download automatically the koboldcpp dependencies (inside the chatbot folder).
