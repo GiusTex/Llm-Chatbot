@@ -19,7 +19,7 @@ This plugin let your rpg-characters chat with you, using free local llms. The pl
 Some code parts are also inspired by [Message Plus](https://forums.rpgmakerweb.com/index.php?threads/gabe-mz-message-plus.127925/) by Gabe.
 
 ## Set up
-- Download github's `chatbot` folder and put it in your game's root directory. The path should be like this: `[Your-Game-Name]/chatbot`.
+- Download [Llm_chatbot.zip](https://github.com/GiusTex/Llm-Chatbot/archive/refs/heads/main.zip), then unzip it and move github's `chatbot` folder in your game's root directory. The path should be like this: `[Your-Game-Name]/chatbot`.
 - Download [koboldcpp.exe](https://github.com/LostRuins/koboldcpp/releases) if you are on windows. If you are not on windows the script will download automatically the koboldcpp dependencies (inside the chatbot folder).
 - Download the [model](https://huggingface.co/TheBloke/orca_mini_3B-GGML/resolve/main/orca-mini-3b.ggmlv3.q5_0.bin) and put it in the `chatbot` folder.
 - Move `Llm_chatbot.js` from github's `plugin` folder to `[Your-Game-Name]\js\plugins` one. 
