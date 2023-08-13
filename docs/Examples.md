@@ -37,8 +37,9 @@
 - `PIXI.BLEND_MODES.DIFFERENCE` - Applica la modalità di fusione "difference" all'immagine sorgente e all'immagine di sfondo.
 
 ## Custom characters
-### Custom characters
+Here there are some custom characters, some from [text-generation-webui](https://github.com/oobabooga/text-generation-webui/blob/main/characters/Example.yaml), some from koboldcpp, and some created by me. I noticed that giving to a character some `adjectives`, a `description` and an `example dialogue` works good.
 
+You need to end the sentences of each character in the example dialogue with `\n`.
 
 <details>
 <summary>Neuro</summary>
