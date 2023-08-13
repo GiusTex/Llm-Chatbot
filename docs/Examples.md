@@ -41,6 +41,10 @@ Here there are some custom characters, some from [text-generation-webui](https:/
 
 You need to end the sentences of each character in the example dialogue with `\n`.
 
+You can change the format and/or what you put in those fields (`adjectives`, `description`, `example dialogue`, you must keep the `\n` at the end of the character sentence though).
+
+You can find more character examples online.
+
 <details>
 <summary>Neuro</summary>
 
