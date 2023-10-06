@@ -31,7 +31,7 @@ If you don't want to download the [demo](https://github.com/GiusTex/Llm-Chatbot/
 - Download [koboldcpp.exe](https://github.com/LostRuins/koboldcpp/releases) if you are on windows. If you are not on windows the script will download automatically the koboldcpp dependencies (inside the chatbot folder).
 - Download the [model](https://huggingface.co/TheBloke/orca_mini_3B-GGML/resolve/main/orca-mini-3b.ggmlv3.q5_0.bin) and put it in the `chatbot` folder.
 - Move `Llm_chatbot.js` from github's `plugins` folder to `[Your-Game-Name]\js\plugins` one. 
-- Start the game. The plugin offers 4 [plugin commands](#plugin-commands).
+- Start the game. The plugin offers 6 [plugin commands](#plugin-commands).
 
 ## How it works
 - The large language model (llm) used is [Orca-mini-3b-ggml](https://huggingface.co/TheBloke/orca_mini_3B-GGML), weighs 2 gb, and although small is good in roleplay/chat.
