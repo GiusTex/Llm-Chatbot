@@ -40,12 +40,15 @@ If you don't want to download the [demo](https://github.com/GiusTex/Llm-Chatbot/
 - Characters can remember previous messages in an amount chosen by the user, to not create a memory too heavy.
 
 ## Plugin commands
-- There are 4 plugin commands available:
-  - `start windows server` (starts koboldcpp with your desired options directly in-game, for now only on windows, but I'm studying how to add mac too);
-  - `custom chat` (the character replies to a fixed message in the text box);
-  - `AI gab message` (the character replies to a fixed message in a message box that doesn't block the user's commands, so he can keep moving);
-  - `AI-Dialogue` (you can write to the character and he answers you).
-- You can choose the faces of the characters next to the message, customize the [text](https://github.com/GiusTex/Llm-Chatbot/blob/main/docs/Examples.md#text-options) of the gab messages (size, color, bold, etc) and of the [character's context](https://github.com/GiusTex/Llm-Chatbot/blob/main/docs/Examples.md#custom-characters).
+- There are 6 plugin commands available:
+  - `Run Windows Server` (starts koboldcpp with your desired options directly in-game (only on windows and mac);
+  - `Run Mac Server` (starts koboldcpp with your desired options directly in-game (only on windows and mac);
+  - `Custom AI Answer` (the character replies to a fixed message in the text box);
+  - `Gab Message` (message box that doesn't block the user's commands, so you can keep moving);
+  - `AI Gab Message` (the character replies to a fixed message in a message box that doesn't block the user's commands, so he can keep moving);
+  - `Start Dialogue` (you can chat with the character/npc and he answers you).
+
+You can choose the faces of the characters next to the messages, and the [character's context](https://github.com/GiusTex/Llm-Chatbot/blob/main/docs/Examples.md#custom-characters).
 
 ## Credits and inspiration
 - [ChatGPT_APIMZ](https://github.com/kotonoha0109/kotonoha_tkoolMZ_Plugins/blob/main/plugins/ChatGPT_APIMZ.js) by Kotonoha
