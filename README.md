@@ -28,7 +28,7 @@ There is a pre-built demo you can test; you can download it from [here](https://
 ## Set up
 If you don't want to download the [demo](https://github.com/GiusTex/Llm-Chatbot/releases), you can download the files manually following these steps:
 - Download [Llm_chatbot.zip](https://github.com/GiusTex/Llm-Chatbot/archive/refs/heads/main.zip), then unzip it and move github's `chatbot` folder in your game's root directory. The path should be like this: `[Your-Game-Name]/chatbot`.
-- Download the [plugin.js](https://github.com/GiusTex/Llm-Chatbot/blob/main/Llm_Chatbot.js)
+- Download the [plugin.js](https://github.com/GiusTex/Llm-Chatbot/releases/download/untagged-0ccf3a40ee2841398959/Llm_Chatbot.js)
 - Download [koboldcpp.exe](https://github.com/LostRuins/koboldcpp/releases) if you are on windows. If you are not on windows the script will download automatically the koboldcpp dependencies (inside the chatbot folder).
 - Download the [model](https://huggingface.co/TheBloke/orca_mini_3B-GGML/resolve/main/orca-mini-3b.ggmlv3.q5_0.bin) and put it in the `chatbot` folder.
 - Move `Llm_chatbot.js` from github's `plugins` folder to `[Your-Game-Name]\js\plugins` one. 
