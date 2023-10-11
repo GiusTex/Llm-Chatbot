@@ -4,7 +4,7 @@ An RPG Maker MZ plugin
 ## Table of contents
 [Description](#description)
 
-[Download demo](#download-demo)
+[Download demo](https://github.com/GiusTex/Llm-Chatbot/releases)
 
 [Set up](#set-up)
 
