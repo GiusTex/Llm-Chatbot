@@ -27,7 +27,7 @@ If otherwise you want to test the plugin editing something or studying the demo,
 
 Inside there are already the required dependencies (if you are on Windows, otherwise they'll be automatically downloaded but it will take some time). You can also find some NPCs to test the plugin commands with. You can also see the plugin in this video:
 
-https://github.com/GiusTex/Llm-Chatbot/assets/112352961/69741ab7-bf7c-4f5c-ac74-94d605052c19
+https://github.com/GiusTex/Llm-Chatbot/assets/112352961/46231792-2d84-4413-82fe-1a7f41258481
 
 ## Set up
 If you don't want to download the demo, you can download the files manually following these steps:
