@@ -1,9 +1,8 @@
 ## Llm-Chatbot
-An RPG Maker MZ plugin
+This plugin let your rpg-characters chat with you, using free local llms. The plugin is inspired by [ChatGPT_APIMZ](https://github.com/kotonoha0109/kotonoha_tkoolMZ_Plugins/blob/main/plugins/ChatGPT_APIMZ.js) by Kotonoha.
+Some code parts are also inspired by [Message Plus](https://forums.rpgmakerweb.com/index.php?threads/gabe-mz-message-plus.127925/) by Gabe.
 
 ## Table of contents
-[Description](#description)
-
 [Download demo](#download-demo)
 
 [Set up](#set-up)
@@ -13,10 +12,6 @@ An RPG Maker MZ plugin
 [Plugin commands](#plugin-commands)
 
 [Credits and inspiration](#credits-and-inspiration)
-
-## Description
-This plugin let your rpg-characters chat with you, using free local llms. The plugin is inspired by [ChatGPT_APIMZ](https://github.com/kotonoha0109/kotonoha_tkoolMZ_Plugins/blob/main/plugins/ChatGPT_APIMZ.js) by Kotonoha.
-Some code parts are also inspired by [Message Plus](https://forums.rpgmakerweb.com/index.php?threads/gabe-mz-message-plus.127925/) by Gabe.
 
 ## Download demo
 You can find all downloadable files [here](https://github.com/GiusTex/Llm-Chatbot/releases).
