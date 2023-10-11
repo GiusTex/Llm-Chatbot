@@ -22,7 +22,7 @@ If otherwise you want to test the plugin editing something or studying the demo,
 
 Inside there are already the required dependencies (if you are on Windows, otherwise they'll be automatically downloaded but it will take some time). You can also find some NPCs to test the plugin commands with. You can also see the plugin in this video:
 
-[![Copertina-Llm Chatbot Plugin](https://github.com/GiusTex/Llm-Chatbot/assets/112352961/fb826946-ecbb-4a30-ba81-79e664bdb1d2)](https://youtu.be/9Yv6OltnOqI)
+[![Watch video](https://img.youtube.com/vi/9Yv6OltnOqI/0.jpg)](https://www.youtube.com/embed/9Yv6OltnOqI?si=-n52cTSlyGNLMD3p)
 
 ## Set up
 If you don't want to download the demo, you can download the files manually following these steps:
