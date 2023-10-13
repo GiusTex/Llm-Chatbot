@@ -42,7 +42,12 @@ There will be some missing dependencies, to download them run `Run Mac Server` a
     
 Once `Command line develeloper tools` is installed, run again `Run Mac Server` to finish downloading the dependencies. At the end you should see a link: `http://localhost:8080` (this link works only on your computer, no one can connect to it from another one).
 
+### Fix for newer versions of Koboldcpp, where `--psutil_set_threads` parameter has been removed:
+
+To install the update, download [`server.py`](https://github.com/GiusTex/Llm-Chatbot/releases/download/1.0.1/server.py) and drop it in the `chatbot` folder (the old `server.py` can be deleted).
+
 You are now ready to test the 6 [plugin commands](#plugin-commands)!
+
 ## How it works
 - The large language model (llm) used is [Orca-mini-3b-ggml](https://huggingface.co/TheBloke/orca_mini_3B-GGML), weighs 2 gb, and although small is good in roleplay/chat. You can change the model used by dropping a new one in the chatbot folder, and then selecting it when starting the server.
 - As text generator I'm using [koboldcpp](https://github.com/LostRuins/koboldcpp), for windows, mac and linux. You could use another text-generation method by changing the `Text generation Url` parameter, but the plugin may require some tweaks then.
