@@ -36,7 +36,7 @@ There will be some missing dependencies, to download them run `Run Mac Server` a
 <details>
   <summary>Make command not available</summary>
     
-  <img src="https://github.com/GiusTex/Llm-Chatbot/assets/112352961/bf70b46e-88df-4542-bd86-4d4f88ed0c76" width="473" height="217" />
+  <img src="https://github.com/GiusTex/Llm-Chatbot/blob/main/docs/MakeError.png" width="463" height="194" />
 
   </details>
     
